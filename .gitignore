@@ -1,0 +1,14 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Backups locais
+*.backup.html
+*.bak
+*~
+
+# Dependências e arquivos locais
+node_modules/
+.env
+.env.*
+!.env.example
